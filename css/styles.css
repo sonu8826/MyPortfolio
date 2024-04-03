@@ -222,7 +222,6 @@ strong {
 small, .small {
   font-size: 0.875em;
 }
-
 mark, .mark {
   padding: 0.1875em;
   background-color: var(--bs-highlight-bg);
@@ -11709,12 +11708,12 @@ html {
 }
 @media (min-width: 1200px) {
   .profile {
-    height: 35vw;
-    width: 35vw;
+    height: 25vw;
+    width: 37vw;
   }
   .profile .profile-img {
     height: 35vw;
-    margin-bottom: 1px;
+    margin-bottom: 0px;
     margin-left: 18px
   }
   .profile .dots-1 {
